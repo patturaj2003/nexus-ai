@@ -70,3 +70,4 @@ Works perfectly on:
 ⚡ Fast and responsive
 
 Start your AI journey today! 🚀
+# nexus-ai
