@@ -1,4 +1,4 @@
-view demo-https://nexus-ai-assistant-nine.vercel.app/
+view demo-"https://nexus-ai-assistant-nine.vercel.app/"
 
 Nexus AI Assistant 🤖
 A modern, voice-enabled AI assistant with real-time communication features and smart reminders.
